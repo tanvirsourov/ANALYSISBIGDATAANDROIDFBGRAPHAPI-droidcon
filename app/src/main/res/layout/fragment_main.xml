@@ -42,12 +42,12 @@
             android:layout_marginBottom="20dp" />
 
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="12dp"
             android:text="See Analytics"
             android:background="@color/colorPrimary"
-            android:foreground="@android:color/white"
+            android:textColor="@color/colorWhite"
             android:id="@+id/seeanalytics"
             />
 
